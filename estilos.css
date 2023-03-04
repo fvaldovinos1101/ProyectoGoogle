@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#navegacion{
+    display: flex;
+    text-decoration: none;
+    color: azure;
+}
+
+#navegacion:visited, #navegacion:visited{
+    color:white
+}
+
+
+
+li{
+    list-style: none;
+    margin: 40px;
+}
+
+
+
+
+#logo{
+    margin-bottom: 100px;
+    width: 30%;
+    height: 300%;
+}
+
+main{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.boton1{
+    margin-bottom: 20px;
+}
+.boton2{
+    margin-bottom: 20px;
+}
+
+.pie{
+    display: flex;
+    color: blue;
+    text-align: center;
+}
